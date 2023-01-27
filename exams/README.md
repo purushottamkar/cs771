@@ -1,6 +1,6 @@
 # How to effectively use this resource
 
-Blank question papers and model solutions for exams and quizzes held in previous years is provided here. This resoure can be used for self assessment as well as preparation for examinations or interviews.
+Blank question papers and model solutions for exams and quizzes held in previous years is provided here. This resource can be used for self assessment as well as preparation for examinations or interviews.
 
 **DO NOT** immediately access contents the model solutions folder -- this resource is not provided to prompt students to learn question-answer pairs by rote (these days, we have large-language models to do that quite well :P). Instead, this resource is meant to allow students who have studied concepts of machine learning to assess their preparation and understanding of the subject matter.
 
@@ -13,7 +13,7 @@ Blank question papers and model solutions for exams and quizzes held in previous
     3. `AA` tells you the type of the question paper
         1. `Qn` where `n` is a number indicates a quiz (Q1 is held before Q2 etc)
         2. `MS` indicates a mid-semester exam
-        3. `ES` an end-semester exam
+        3. `ES` indicates an end-semester exam
  3. Make a sincere attempt to solve the question paper yourself. If you are a beginner, choose either Q1 or MS question papers. Do not worry if you are unable to solve all questions. Solve as many as you can.
  4. Once you have completed your attempt, pick up the corresponding model solution from the folder `model_solutions`. Files in that directory have the same naming structure as those in the `question_papers` directory except that they have the phrase `_key` in their filename to indicate that they are model solution files.
  5. Check your solution and ruminate on the principles behind solving the question in case you did not get the solution correct.
